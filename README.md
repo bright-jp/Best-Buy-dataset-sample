@@ -2,7 +2,7 @@
 
 <h2>1001件のBest Buy商品のサンプルデータセット</h2>
 
-![Best Buy products dataset header](https://github.com/luminati-io/Best-Buy-dataset-sample/blob/main/Best-Buy-dataset.png)
+![Best Buy products dataset header](https://github.com/bright-jp/Best-Buy-dataset-sample/blob/main/Best-Buy-dataset.png)
 
 1000件を超えるレコードを含むBest Buy商品のデータセットサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
