@@ -1,4 +1,4 @@
-# Best-Buy-dataset-sample
+# Best Buy データセットサンプル
 
 <h2>1001件のBest Buy商品のサンプルデータセット</h2>
 
